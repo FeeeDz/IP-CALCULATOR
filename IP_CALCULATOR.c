@@ -131,7 +131,7 @@ int main()
         case 5: //program exit
             return 0;
         default: //default case
-            printf("Inserisci una della opzioni indicate sopra\n");
+            printf("Enter one of the options above\n");
         }
     } while (1);
 }
