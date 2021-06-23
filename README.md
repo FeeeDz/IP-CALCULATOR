@@ -17,4 +17,8 @@ the program may have some bugs when working with many networks especially with c
 
 We invite all users to report bugs in the code, or just to express your feedback.
 
-
+## Usage
+on Unix systems compile with
+```bash
+gcc ip_calculator.c -o ip_calculator -lm
+```
