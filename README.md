@@ -1,4 +1,4 @@
-# IP-CALCULATOR🚨
+# IP-CALCULATOR
 
 ## General idea:
 IP CALCULATOR was born as a school project carried out by two Italian boys attending secondary school.
@@ -12,7 +12,7 @@ The program's elaborations are printed in the terminal and also in a text file t
 
 The programme is useful for understanding how the Subnetting and VLSM techniques work, for creating small networks or as a verification tool for school exercises on networks.
 
-**Warning:**<br>
+**🚨Warning:**<br>
 the program may have some bugs when working with many networks especially with class A addresses.
 
 We invite all users to report bugs in the code, or just to express your feedback.
