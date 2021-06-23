@@ -1,4 +1,4 @@
-# IP-CALCULATOR
+# IPcalculator
 
 ## General idea:
 IP CALCULATOR was born as a school project developed by two Italian students attending an I.T secondary school.
