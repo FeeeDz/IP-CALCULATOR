@@ -1,7 +1,7 @@
 # IP-CALCULATOR
 
 ## General idea:
-IP CALCULATOR was born as a school project carried out by two Italian boys attending secondary school.
+IP CALCULATOR was born as a school project developed by two Italian boys attending secondary school.
 The software is able to carry out different types of network subdivisions such as the "Subnetting" technique and the "VLSM (Variable Lenght Subnet Mask)" technique.
 It is also possible to check whether two IP addresses belong to the same network.
 The programme is very versatile, as it accepts addresses of the three main classes A, B and C. Classes D and E have been discarded as they are little used.  
