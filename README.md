@@ -20,5 +20,14 @@ We invite all users to report bugs in the code, or just to express your feedback
 ## Usage
 on Unix systems compile with
 ```bash
-gcc ip_calculator.c -o ip_calculator -lm
+$ gcc ip_calculator.c -o ip_calculator -lm
+```
+run the binary with
+```bash
+$ ./ip_calculator
+```
+or run the start.sh script
+```bash
+$ chmod +x start.sh
+$ ./start.sh
 ```
