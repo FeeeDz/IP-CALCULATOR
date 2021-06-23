@@ -156,7 +156,7 @@ void bin(address *sub, int ip1, int ip2, int ip3, int ip4, int mod)
     }
     if (mod == 1)
     {
-        fprintf(fp, "Binario --> ");
+        fprintf(fp, "Binary --> ");
         for (int j = 0; j < 4; j++)
         {
             for (int p = 0; p < 8; p++)
