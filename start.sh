@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc IP_CALCULATOR.c -o IP_CALCULATOR -lm
-./IP_CALCULATOR
+gcc ip_calculator.c -o ip_calculator -lm
+./ip_calculator
